@@ -1,0 +1,7 @@
+channel,Paid Search,Display,Social,Affiliate,Email,Online Video
+Paid Search,1.0,0.031,0.045,0.039,0.011,0.015
+Display,0.044,1.0,0.0,0.041,0.04,0.023
+Social,0.015,0.014,1.0,0.013,0.022,0.025
+Affiliate,0.028,0.05,0.04,1.0,0.031,0.049
+Email,0.011,0.008,0.031,0.002,1.0,0.002
+Online Video,0.026,0.023,0.046,0.031,0.026,1.0
